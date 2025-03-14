@@ -20,6 +20,12 @@ A modern Android application that displays locations on both a map and list view
 - **View Binding**: AndroidX ViewBinding
 - **Navigation**: Fragment-based navigation
 
+Demo Video
+
+https://github.com/maven-y/MapDemo/blob/main/video_demo.mp4
+
+
+
 ## Project Structure
 
 ```
