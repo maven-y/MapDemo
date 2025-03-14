@@ -22,7 +22,7 @@ A modern Android application that displays locations on both a map and list view
 
 Demo Video
 
-https://github.com/maven-y/MapDemo/blob/main/video_demo.mp4
+https://raw.githubusercontent.com/maven-y/MapDemo/refs/heads/main/video_demo.mp4
 
 
 
