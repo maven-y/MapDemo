@@ -22,8 +22,7 @@ A modern Android application that displays locations on both a map and list view
 
 Demo Video
 
-https://raw.githubusercontent.com/maven-y/MapDemo/refs/heads/main/video_demo.mp4
-
+https://drive.google.com/file/d/1t71oEe8p6kgbKhMxig7MxisXeUxZuKBM/view?usp=sharing
 
 
 ## Project Structure
