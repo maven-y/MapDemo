@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="maps_api_base_url">https://maps.googleapis.com/maps/api/</string>
+    <string name="sort_locations">Sort locations</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="delete_location">Delete location</string>
+    <string name="edit_location">Edit location</string>
+    <string name="direction_button">Click on Direction Button for drawing path</string>
+    <string name="primary">Primary</string>
+</resources>
